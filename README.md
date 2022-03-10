@@ -10,7 +10,7 @@ pkg install php
 
 pkg install git
 
-https://github.com/MuslimArmy-ID/SPAM-WA
+git clone https://github.com/MuslimArmy-ID/SPAM-WA
 
 cd SPAM-WA
 
